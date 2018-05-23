@@ -13,7 +13,7 @@ public class Planets {
         planets.add("Saturn");
         planets.add("Neptune");
     }
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         addPlanets();
         ArrayList<String> empty = new ArrayList<String>();
         System.out.println(planets);
